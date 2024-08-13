@@ -46,3 +46,6 @@
     * <Number of trams at this line, route lenght (number of stops), (int, int)>
     * line's route as a pair:
       * <Stop name, travel time (string, int)>
+
+❗In the code, both variable names and comments are in Polish because this program was one of the projects for the second semester 
+of computer science studies. Sorry for the inconvenience.❗️
