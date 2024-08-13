@@ -34,11 +34,11 @@
    * Simulation statistics (number of trips, average waiting time at the stop, etc.).
 
 🚋 PROGRAM INPUT:
-  <Days of simulation (int)> 
-  <Stop capacity (int)> 
-  <Number of stops (int)> 
+  <Days of simulation (int)>
+  <Stop capacity (int)>
+  <Number of stops (int)>
   for every stop:
-    <Name of the stop (String)> 
+    <Name of the stop (String)>
   <Number of passengers (int)>
   <Tram capacity (int)>
   <Number of tram lines (int)>
